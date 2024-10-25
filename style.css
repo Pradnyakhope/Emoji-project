@@ -23,9 +23,9 @@ h1{
     box-shadow: 4px 4px 4px rgb(31, 34, 34);
 }
 #search_btn{
-    background-color: rgb(40, 176, 184);
+    background-color: rgb(2, 67, 69);
     border: 2px solid rgb(10, 57, 56);
-    color: black;
+    color: whitesmoke;
     /* border: none; */
     padding: 10px 20px;
     border-radius: 5px;
@@ -86,7 +86,8 @@ ul {
     align-items: center;
     padding: 20px;
     width: 50vw;
-    background-color: black;
+    background-color: rgb(2, 67, 69);
+    /* background-color: rgb(10, 64, 64); */
     color: white;
     border-radius: 10px;
     box-shadow: drop-shadow(5px 5px 5px 0.5px);
